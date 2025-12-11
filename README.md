@@ -5,7 +5,7 @@ Our goal is to enhance Malaysia’s digital identity landscape with adaptive acc
 
 ---
 
-## 🚀 Features Demonstrated in Prototype
+## Features Demonstrated in Prototype
 
 ### 1. Adaptive Modes (Auto-Detected via MyKad Profile)
 - **Senior Mode**: Large text, high contrast UI, simplified navigation.
