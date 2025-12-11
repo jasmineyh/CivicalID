@@ -32,18 +32,18 @@ Our goal is to enhance Malaysia’s digital identity landscape with adaptive acc
 
 ## Live Links
 
-### ▶ Demo Video
+### Demo Video
 
 
 https://your-video-link
 
-### ⧉ Figma Prototype
+### Figma Prototype
 
 https://www.figma.com/design/2gqwW6LzQLCHDQu0qG3ixQ/CivicalID?node-id=0-1&t=hfecwdpNNXepVfXQ-1
 
 ---
 
-## 🛠 How to Use This Repository
+## How to Use This Repository
 This repo is meant to support our hackathon submission:
 
 - View the pitch deck  
