@@ -49,14 +49,20 @@ This repo is meant to support our hackathon submission:
 - View the pitch deck  
 - Watch the demo  
 - Explore the interactive prototype  
-- Read documentation on inclusivity choices  
+- Read documentation on inclusivity choices
 
 ---
+
 
 ## Team
 - Member 1 – Intro & Problem  
 - Member 2 – Target Users & Failures  
 - Member 3 – Pillars & Modes  
 - Member 4 – Emergency & Community Map  
-- Member 5 – Ambient Assistance & Impact  
+- Member 5 – Ambient Assistance & Impact
+
+ ---
+
+## License
+MIT License (free to reuse with attribution)
 
