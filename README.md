@@ -34,7 +34,7 @@ Our goal is to enhance Malaysia’s digital identity landscape with adaptive acc
 
 ### Pitch Deck
 
-[Download Pitch Deck (PDF)](docs/CivicalID_PitchDeck.pdf)
+[Download Pitch Deck (PDF)](docs/CIvicalID_PitchDeck.pdf)
 
 
 ### Demo Video
