@@ -32,6 +32,11 @@ Our goal is to enhance Malaysia’s digital identity landscape with adaptive acc
 
 ## Live Links
 
+### Pitch Deck
+
+[Download Pitch Deck](docs/pitch-deck.pdf)
+
+
 ### Demo Video
 
 
