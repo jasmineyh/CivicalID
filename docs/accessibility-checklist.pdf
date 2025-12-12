@@ -1,0 +1,12 @@
+# Accessibility Checklist – CivicaID
+
+✔ High contrast color themes  
+✔ Font sizes meet WCAG AA for seniors  
+✔ Voice-first interface for blind users  
+✔ Vibration feedback for tactile confirmation  
+✔ Full captioning and visual alerts for deaf users  
+✔ Simplified navigation with large buttons  
+✔ Audio cues supplemented with visual equivalents  
+✔ Touch targets minimum 44px  
+✔ Emergency mode bypass for authorized personnel  
+✔ Clear reading order and consistent UI structure  
